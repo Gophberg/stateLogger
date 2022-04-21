@@ -1,4 +1,4 @@
-package stateLogger
+package StateLogger
 
 type Position struct {
 	X, Y int
@@ -10,6 +10,6 @@ type User struct {
 	position Position
 }
 
-func stateLogger() {
+func StateLogger() {
 	print("Hello, World!")
 }
