@@ -1,0 +1,16 @@
+########################################################################
+#
+#   Config strings
+#   Need to describe
+#
+########################################################################
+
+objects:
+  -
+    onlineColor: FFFFFFFF
+    offlineColor: 00000000
+    coordinates: "0, 0"
+  -
+    onlineColor: FFFFFFFF
+    offlineColor: 00000000
+    coordinates: "1, 1"
